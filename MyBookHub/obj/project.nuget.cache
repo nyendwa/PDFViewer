@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Duoiv8rhJGKG/JZQaVi+wktyQM7smg9kcv+fUs5c7o8btwsbV+D3Tr9OUDLpOzVlRNQlhLhqzwRp26US9Mp5CQ==",
+  "success": true,
+  "projectFilePath": "F:\\Desktop Home\\eRepository\\eRepository\\MyBookHub\\MyBookHub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesigncolors\\2.1.2\\materialdesigncolors.2.1.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\materialdesignthemes\\4.8.0\\materialdesignthemes.4.8.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\syncfusion.compression.base\\20.4.0.54\\syncfusion.compression.base.20.4.0.54.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\syncfusion.licensing\\20.4.0.54\\syncfusion.licensing.20.4.0.54.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\syncfusion.pdf.wpf\\20.4.0.54\\syncfusion.pdf.wpf.20.4.0.54.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\syncfusion.pdfviewer.wpf\\20.4.0.54\\syncfusion.pdfviewer.wpf.20.4.0.54.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\syncfusion.shared.wpf\\20.4.0.54\\syncfusion.shared.wpf.20.4.0.54.nupkg.sha512"
+  ],
+  "logs": []
+}
